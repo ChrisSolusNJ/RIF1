@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "958929964982",
+    "firebase_url": "https://esp32-sra-iot-default-rtdb.firebaseio.com",
+    "project_id": "esp32-sra-iot",
+    "storage_bucket": "esp32-sra-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958929964982:android:d5d379da3bb0d6a726bb17",
+        "android_client_info": {
+          "package_name": "com.chrisnj.rif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uLOepVaSSueCNWR0HACTzTS5-2pIs3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
